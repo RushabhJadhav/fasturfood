@@ -61,6 +61,7 @@ li a:hover {
 .hamburger-menu {
     position: relative;
     align-self: center;
+    display: none;
 }
 .hamburger-menu:hover #links {
     left: -150px;
