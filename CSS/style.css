@@ -43,7 +43,8 @@ li a:hover {
     color: #de7c21;
 }
 #links > li {
-        padding-top: 20px;
+    padding-top: 20px;
+}
 .brand-name {
     font-size: 30px;
     font-family: 'Pacifico', cursive;
