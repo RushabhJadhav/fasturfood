@@ -13,6 +13,7 @@ body {
 /* navbar */
 header {
     border-bottom: 1px solid #de7c21;
+    overflow-x: hidden;
 }
 .header-content {
     display: flex;
