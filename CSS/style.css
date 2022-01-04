@@ -245,7 +245,6 @@ h5 {
     }
     .hamburger-menu {
         display: block;
-        overflow-x: hidden;
     }
     /* footer section */
     .about-us {
