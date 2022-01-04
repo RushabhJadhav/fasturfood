@@ -10,10 +10,12 @@ body {
     background: rgba(209, 207, 205, 0.6);
     overflow-x: hidden;
 }
+html {
+    overflow-x: hidden;
+}
 /* navbar */
 header {
     border-bottom: 1px solid #de7c21;
-    overflow-x: hidden;
 }
 .header-content {
     display: flex;
