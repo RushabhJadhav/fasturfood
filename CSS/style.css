@@ -243,6 +243,10 @@ h5 {
     .button {
         display: none;
     }
+    .hamburger-menu {
+        display: block;
+        overflow-x: hidden;
+    }
     /* footer section */
     .about-us {
         flex-direction: column;
